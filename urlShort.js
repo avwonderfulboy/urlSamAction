@@ -1,4 +1,5 @@
 "use strict";
+console.log("heya");
 var __awaiter =
   (this && this.__awaiter) ||
   function (thisArg, _arguments, P, generator) {
